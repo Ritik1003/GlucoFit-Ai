@@ -225,25 +225,29 @@ streamlit run app.py
 ### Home Page
 
 ```text
-Add screenshot here
+<img width="743" height="449" alt="home1" src="https://github.com/user-attachments/assets/1d2867da-e4dd-459b-b0c5-aba97cf304aa" />
+<img width="884" height="458" alt="home2" src="https://github.com/user-attachments/assets/d1192693-dc02-40e6-8d6c-47cd5c0cb3db" />
 ```
 
-### Health Assessment Page
+### Personal info Page
 
 ```text
-Add screenshot here
+<img width="655" height="332" alt="personalinfo" src="https://github.com/user-attachments/assets/13bd946e-96f0-4c38-812e-1c017858b363" />
+
+```
+
+### lifestyle Report
+
+```text
+<img width="651" height="473" alt="lifedietinfo" src="https://github.com/user-attachments/assets/dbf3b945-eac4-4ac9-9223-a63287ec34c0" />
+
 ```
 
 ### Prediction Dashboard
 
 ```text
-Add screenshot here
-```
+<img width="728" height="482" alt="prediction" src="https://github.com/user-attachments/assets/b82f004a-5c74-456d-ad10-397660bfbeec" />
 
-### PDF Report
-
-```text
-Add screenshot here
 ```
 
 ---
